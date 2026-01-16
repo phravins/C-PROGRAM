@@ -47,6 +47,9 @@ It is intended for students, beginners, and educators using **MinGW GCC** and **
 3. Add the required `.c` file to the project
 4. Build and run the project
 
+### Practice Platform C
+Codechef : https://www.codechef.com/learn/course/c
+
 ### Teaching Approach
 
 Each program focuses on a single concept
@@ -54,7 +57,7 @@ Code is written in a simple and readable manner
 Programs are suitable for classroom teaching and self-learning
 Emphasis is placed on understanding fundamentals before advanced topics
 
-Contributions
+### Contributions
 
 Contributions are welcome.
 You may contribute by:
